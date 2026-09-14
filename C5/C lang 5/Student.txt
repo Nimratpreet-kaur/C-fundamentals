@@ -1,3 +1,0 @@
-Student Name : Nimratpreet
-Student Age : 18
-Student CGPA : 9.600000
