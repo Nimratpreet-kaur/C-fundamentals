@@ -1,4 +1,4 @@
-// how to remove duplicate element in sorted array
+// how to remove duplicate element in sorted array(keeping order same)(Cannot use if word inplace is used in ques)
 #include<stdio.h>
 int main()
 {
