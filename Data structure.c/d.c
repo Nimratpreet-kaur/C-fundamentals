@@ -16,7 +16,7 @@ int main()
     int m=0;
     for(i =1;i<n;i++)
     {
-        if(arr[i]>copy[m])
+        if(arr[i]!=copy[m])
         {
             copy[m+1]=arr[i];
             m++;
